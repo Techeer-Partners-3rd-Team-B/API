@@ -19,3 +19,4 @@
 | [송유림](https://github.com/youlimsongs) | [자료]()  
 | [임동민](https://github.com/dongmin115) | [자료]()  
 | [조하나](https://github.com/dlwhsk0) | [자료](https://velog.io/@dlwhsk0/React-Study-3%EC%A3%BC%EC%B0%A8-%EB%89%B4%EC%8A%A4-%EB%B7%B0%EC%96%B4-API-%EC%97%B0%EB%8F%99%ED%95%B4%EB%B3%B4%EA%B3%A0-API%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0) 
+| [오소연](https://github.com/soyeonXTukorea) | [자료](https://velog.io/@nannyu/React-API-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0)
